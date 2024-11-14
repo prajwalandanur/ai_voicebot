@@ -1,0 +1,53 @@
+Store Name: Fresh Mart Provisions
+Location: thyagarthi
+
+Groceries:
+Rice (1 kg) - Rupees 50
+Wheat Flour (1 kg) - Rupees 40
+Sugar (1 kg) - Rupees 45
+Turmeric Powder (100 g) - Rupees 30
+Red Chilli Powder (100 g) - Rupees 25
+Salt (1 kg) - Rupees 20
+jaggery(1 kg) -Rupees 80
+
+Pulses:
+Moong Dal (1 kg) - Rupees 80
+Chana Dal (1 kg) - Rupees 90
+Toor Dal (1 kg) - Rupees 100
+
+Rice Varieties:
+Basmati Rice (1 kg) - Rupees 100
+Brown Rice (1 kg) - Rupees 70
+
+Dairy Products:
+Milk (1 liter) - Rupees 45
+Curd (500 g) - Rupees 30
+Butter (200 g) - Rupees 50
+Cheese (200 g) - Rupees 70
+Paneer (250 g) - Rupees 80
+Ghee (500 g) - Rupees 250
+
+Beverages:
+Tea (250 g) - Rupees 90
+Coffee (100 g) - Rupees 120
+Soft Drinks (Pepsi, 1 liter) - Rupees 60
+Soft Drinks (Coke, 1 liter) - Rupees 60
+Juice (1 liter) - Rupees 80
+Mineral Water (1 liter) - Rupees 30
+
+Snacks:
+Biscuits (Pack) - Rupees 20
+Chips (Small Pack) - Rupees 10
+Namkeen (500 g) - Rupees 50
+Nuts (Mixed, 250 g) - Rupees 150
+Granola Bars (Pack of 6) - Rupees 80
+
+Vegetables:
+Onions (1 kg) - Rupees 40
+Tomatoes (1 kg) - Rupees 30
+Potatoes (1 kg) - Rupees 25
+Carrots (1 kg) - Rupees 50
+Spinach (Bunch) - Rupees 15
+Capsicum (1 kg) - Rupees 60
+Cucumber (1 kg) - Rupees 35
+Cabbage (1 kg) - Rupees 25
